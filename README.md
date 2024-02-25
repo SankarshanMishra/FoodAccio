@@ -22,7 +22,6 @@ These instructions will help you set up and run the project on your local machin
 - Flutter installed on your machine
 
 ### Installation
-
 Clone the repository:
    ```bash
    git clone https://github.com/SankarshanMishra/FoodAccio.git
@@ -33,7 +32,7 @@ Clone the repository:
    Run the app:
    flutter run
 
-### Contributing
+Contributing
 If you'd like to contribute to this project, please follow these guidelines:
 
 Fork the repository.
@@ -41,7 +40,7 @@ Create a new branch: git checkout -b feature_branch.
 Make your changes and commit them: git commit -m 'Description of your changes'.
 Push to the branch: git push origin feature_branch.
 Submit a pull request.
-### Authors
+Authors
 Sankarshan Mishra
 Kunal Banerjee
 Astha Shukla
