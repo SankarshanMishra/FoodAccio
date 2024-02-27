@@ -22,16 +22,25 @@ These instructions will help you set up and run the project on your local machin
 - Flutter installed on your machine
 
 ### Installation
-Clone the repository:
+
+1. Clone the repository:
    ```bash
    git clone https://github.com/SankarshanMishra/FoodAccio.git
-   Navigate to the project directory:
-   cd FoodAccio
-   Install dependencies:
-   flutter pub get
-   Run the app:
-   flutter run
+Navigate to the project directory:
 
+bash
+Copy code
+cd FoodAccio
+Install dependencies:
+
+bash
+Copy code
+flutter pub get
+Run the app:
+
+bash
+Copy code
+flutter run
 Contributing
 If you'd like to contribute to this project, please follow these guidelines:
 
@@ -45,5 +54,3 @@ Sankarshan Mishra
 Kunal Banerjee
 Astha Shukla
 Archana Kumari
-
-
