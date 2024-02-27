@@ -8,11 +8,39 @@ FoodAccio App is a Flutter application aimed at connecting NGOs, restaurants, an
 
 ## Features
 
-- *Contribute Fund:* Individuals can donate money to NGOs supporting hunger eradication.
-- *Contribute Tasty Treats:* Restaurants and individuals can donate surplus food to NGOs.
-- *Share Surplus Meals:* Restaurants can share information about excess food with NGOs.
-- *Helpers Around You:* Learn about NGOs and organizations working towards hunger elimination.
+- **Contribute Fund:** Individuals can donate money to NGOs supporting hunger eradication.
+- **Contribute Tasty Treats:** Restaurants and individuals can donate surplus food to NGOs.
+- **Share Surplus Meals:** Restaurants can share information about excess food with NGOs.
+- **Helpers Around You:** Learn about NGOs and organizations working towards hunger elimination.
 
 ## Getting Started
 
-These instructions will help you set up
+These instructions will help you set up and run the project on your local machine.
+
+### Prerequisites
+
+- Flutter installed on your machine
+
+### Installation
+Clone the repository:
+   ```bash
+   git clone https://github.com/SankarshanMishra/FoodAccio.git
+   Navigate to the project directory:
+   cd FoodAccio
+   Install dependencies:
+   flutter pub get
+   Run the app:
+   flutter run
+### Contributing
+If you'd like to contribute to this project, please follow these guidelines:
+
+Fork the repository.
+Create a new branch: git checkout -b feature_branch.
+Make your changes and commit them: git commit -m 'Description of your changes'.
+Push to the branch: git push origin feature_branch.
+Submit a pull request.
+### Authors
+Sankarshan Mishra
+Kunal Banerjee
+Astha Shukla
+Archana Kumari
