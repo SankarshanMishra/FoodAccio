@@ -40,12 +40,21 @@ Clone the repository:
 If you'd like to contribute to this project, please follow these guidelines:
 
 Fork the repository.
-Create a new branch: git checkout -b feature_branch.
-Make your changes and commit them: git commit -m 'Description of your changes'.
-Push to the branch: git push origin feature_branch.
+Create a new branch:
+ ```bash
+git checkout -b feature_branch.
+```
+Make your changes and commit them: 
+ ```bash
+git commit -m 'Description of your changes'
+```
+Push to the branch:
+```bash
+git push origin feature_branch
+```
 Submit a pull request.
 ### Authors
-Sankarshan Mishra
-Kunal Banerjee
-Astha Shukla
-Archana Kumari
+Sankarshan Mishra,
+Kunal Banerjee,
+Astha Shukla,
+Archana Kumari.
