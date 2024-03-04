@@ -27,10 +27,15 @@ Clone the repository:
    git clone https://github.com/SankarshanMishra/FoodAccio.git
    Navigate to the project directory:
    cd FoodAccio
+   ```
    Install dependencies:
+   ```bash
    flutter pub get
+   ```
    Run the app:
+   ```bash
    flutter run
+```
 ### Contributing
 If you'd like to contribute to this project, please follow these guidelines:
 
